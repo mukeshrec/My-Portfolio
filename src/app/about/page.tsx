@@ -43,8 +43,8 @@ import { TbTerminal2 } from "react-icons/tb";
 const CONTACT_LINKS = [
   {
     name: "Email",
-    content: "abhijitzende75@gmail",
-    href: "mailto:abhijitzende75@gmail.com",
+    content: "mukeshvelu005@gmail.com",
+    href: "mailto:mukeshvelu005@gmail.com",
     icon: <FaEnvelope height={"50px"} />,
   },
   {
@@ -55,14 +55,14 @@ const CONTACT_LINKS = [
   },
   {
     name: "LinkedIn",
-    href: "https://www.linkedin.com/in/zende-abhijit/",
-    content: "/zende-abhijit",
+    href: "https://www.linkedin.com/in/mukesh-v-b4b066318",
+    content: "/mukesh-v-b4b066318",
     icon: <FaLinkedin height={"50px"} />,
   },
   {
     name: "GitHub",
-    href: "https://github.com/Abhiz2411",
-    content: "/naresh-khatri",
+    href: "https://github.com/mukeshrec",
+    content: "/mukeshrec",
     icon: <FaGithub height={"50px"} />,
   },
 ];
@@ -287,10 +287,12 @@ function Page() {
           >
             <h1 className="text-3xl mb-10 lg:md-20">About me</h1>
             <p className="mb-10 text-roboto">
-              Hey there! I&apos;m Abhijit, a Comp. Sci. Engineer with 1.5 year experience in Devlopment, DevOps and 
-              Database management with hands-on experience in deploying & automating workflows, and 
-              collaborating with foreign clients. Strong analytical skills,effective communication,
-              and a team-oriented approach to driving process improvements and delivering results.
+              Hey there! I&apos;m Mukesh, a Comp. Sci. Engineer with 1.5 year
+              experience in Devlopment, DevOps and Database management with
+              hands-on experience in deploying & automating workflows, and
+              collaborating with foreign clients. Strong analytical
+              skills,effective communication, and a team-oriented approach to
+              driving process improvements and delivering results.
             </p>
             <p className="mb-10">
               When I&apos;m not coding, you can find me [Your

@@ -1,3 +1,5 @@
+"use client";
+
 import React from "react";
 import Link from "next/link";
 import { footer } from "./config";
@@ -16,11 +18,18 @@ function Footer() {
       <nav className="flex gap-4 sm:gap-6 z-10">
         {footer.map((link, index) => {
           const { title, href } = link;
+          const isComingSoon = title === "Blog" || title === "Newsletter";
 
           return (
             <Link
               className="text-xs underline-offset-4 hover:underline"
               href={href}
+              onClick={(e) => {
+                if (isComingSoon) {
+                  e.preventDefault();
+                  alert("Coming soon");
+                }
+              }}
               key={`l_${index}`}
             >
               <Button variant={"link"}>{title}</Button>

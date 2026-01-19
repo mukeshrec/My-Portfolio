@@ -17,23 +17,28 @@ This project is **inspired** by the amazing work of [Naresh Khatri](https://gith
 Here are the key highlights of my portfolio:
 
 ### 🎹 **3D Interactive Animations**
+
 - Features a custom-made interactive keyboard built with **Spline**.
 - Each keycap represents a skill and reveals titles and descriptions on hover for an immersive experience.
 - Smooth, responsive 3D interactions that captivate visitors.
 
 ### ✨ **Slick Interactions & Animations**
+
 - Powered by **GSAP** and **Framer Motion**, delivering buttery-smooth animations on scroll, hover, and element reveals.
 - Creative motion designs that enhance storytelling and keep users engaged.
 
 ### 🌌 **Space-Themed Design**
+
 - Particles floating on a dark, cosmic background simulate an outer-space vibe.
 - Adds a unique and futuristic look to the portfolio.
 
 ### 📱 **Responsive Design**
+
 - Fully responsive layout ensures the website looks and functions beautifully on all devices.
 - Optimized for both desktop and mobile experiences.
 
 ### 🧠 **Innovative Web Design**
+
 - Combines cutting-edge technology with an intuitive user experience.
 - Creative use of animations and visuals to push the boundaries of modern web design.
 
@@ -48,21 +53,25 @@ The portfolio website is built using the following tools and technologies:
 ## 🌟 Getting Started
 
 1. Clone this repository:
+
    ```bash
    git clone https://github.com/Abhiz2411/3D-interactive-portfolio.git
    ```
 
 2. Navigate to the project directory:
+
    ```bash
    cd 3D-interactive-portfolio
    ```
 
 3. Install dependencies:
+
    ```bash
    npm install
    ```
 
 4. Set up environment variables:
+
    ```bash
    # Create a .env.local file in the root directory
    touch .env.local
@@ -72,6 +81,7 @@ The portfolio website is built using the following tools and technologies:
    ```
 
 5. Start the development server:
+
    ```bash
    npm run dev
    ```
@@ -105,8 +115,8 @@ A huge shoutout to [Naresh Khatri](https://github.com/Naresh-Khatri/Portfolio) f
 
 Feel free to reach out to me for collaboration, feedback, or just to say hi! 😊
 
-- **Email:** abhijitzende75@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/zende-abhijit/)
+- **Email:** mukeshvelu005@gmail.com
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mukesh-v-b4b066318)
 
 ---
 

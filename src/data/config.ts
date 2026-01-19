@@ -1,16 +1,16 @@
 const config = {
-  title: "Abhijit Zende | AI Enthusiast",
+  title: "Mukesh | AI Enthusiast",
   description: {
-    long: "Explore the portfolio of Abhijit, a Computer Science Engineer with 1.5 year experience in Devlopment, DevOps & Database management with hands-on experience in deploying & automating workflows, & collaborating with foreign clients. Strong analytical skills, effective communication, and a team-oriented approach to driving process improvements and delivering results.",
+    long: "Explore the portfolio of Mukesh, a Computer Science Engineer with 1.5 year experience in Devlopment, DevOps & Database management with hands-on experience in deploying & automating workflows, & collaborating with foreign clients. Strong analytical skills, effective communication, and a team-oriented approach to driving process improvements and delivering results.",
     short:
-      "Discover the portfolio of Abhijit, a AI enthusiast solving real life problems in DevOps and Development.",
+      "Discover the portfolio of Mukesh, a AI enthusiast solving real life problems in DevOps and Development.",
   },
   keywords: [
-    "Abhijit",
-    "Abhijit Zende",
+    "Mukesh",
+    "Mukesh",
     "abhijitzende",
     "abhijitzende.com",
-    "Abhijit Zende portfolio",
+    "Mukesh portfolio",
     "portfolio",
     "DevOps",
     "Devlopment",
@@ -30,8 +30,8 @@ const config = {
     "AIOps",
     "Azure",
   ],
-  author: "Abhijit Zende",
-  email: "abhijitzende75@gmail.com",
+  author: "Mukesh",
+  email: "mukeshvelu005@gmail.com",
   site: "https://abhijitzende.com",
 
   get ogImg() {
@@ -39,10 +39,10 @@ const config = {
   },
   social: {
     twitter: "https://x.com/_Abhi_Speaks/",
-    linkedin: "https://www.linkedin.com/in/zende-abhijit/",
+    linkedin: "https://www.linkedin.com/in/mukesh-v-b4b066318",
     instagram: "https://www.instagram.com/_.celestial_abhi._/",
     facebook: "https://www.facebook.com/profile.php?id=100010029821759",
-    github: "https://github.com/Abhiz2411/",
+    github: "https://github.com/mukeshrec",
   },
 };
 export { config };
