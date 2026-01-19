@@ -95,8 +95,3 @@ The portfolio website is built using the following tools and technologies:
    - Value: Your Resend API key
 5. Save the changes and redeploy your application
 
-Note: Make sure to keep your API key secret and never commit it to your repository.
-
-## 💖 Acknowledgments
-
-A huge shoutout to [Naresh Khatri](https://github.com/Naresh-Khatri/Portfolio) for the inspiration and ideas that sparked this journey! 💡 If you're interested in creative web design, definitely check out his work.
