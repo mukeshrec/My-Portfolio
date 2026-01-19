@@ -1,14 +1,9 @@
-![Portfolio Preview](https://github.com/Abhiz2411/3D-interactive-portfolio/blob/main/public/assets/seo/og-image.png?raw=true)
+
 
 # 🚀 My Portfolio Website
 
 Welcome to the repository for my personal portfolio website! 🎉 This project is a culmination of creativity, technology, and my dedication to showcasing my skills, projects, and personality in a visually stunning and interactive manner.
 
-### Live preview: https://www.abhijitzende.com/
-
-![Preview](https://github.com/Abhiz2411/3D-interactive-portfolio/blob/main/public/assets/preview_video.gif?raw=true)
-
-https://github.com/Abhiz2411/3D-interactive-portfolio/blob/main/preview_video.mp4
 
 This project is **inspired** by the amazing work of [Naresh Khatri](https://github.com/Naresh-Khatri/Portfolio). His innovative approach to web design and attention to detail has been a huge influence. Thank you, Naresh! 🙏
 
@@ -55,7 +50,7 @@ The portfolio website is built using the following tools and technologies:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/Abhiz2411/3D-interactive-portfolio.git
+   git clone https://github.com/mukeshrec/My-Portfolio.git
    ```
 
 2. Navigate to the project directory:
@@ -93,8 +88,6 @@ The portfolio website is built using the following tools and technologies:
 
 ## 🚀 Deployment
 
-This project is deployed using **Vercel** for its blazing-fast performance and ease of use. You can view the live site [here](https://www.abhijitzende.com/).
-
 ### Setting up Resend API on Vercel
 
 1. Sign up for a [Resend](https://resend.com) account and get your API key
@@ -110,14 +103,3 @@ Note: Make sure to keep your API key secret and never commit it to your reposito
 ## 💖 Acknowledgments
 
 A huge shoutout to [Naresh Khatri](https://github.com/Naresh-Khatri/Portfolio) for the inspiration and ideas that sparked this journey! 💡 If you're interested in creative web design, definitely check out his work.
-
-## 📬 Contact
-
-Feel free to reach out to me for collaboration, feedback, or just to say hi! 😊
-
-- **Email:** mukeshvelu005@gmail.com
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mukesh-v-b4b066318)
-
----
-
-⭐ If you like this project, don't forget to give it a star!
